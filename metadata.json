@@ -1,0 +1,5 @@
+{
+  "name": "N-Switch Web OS",
+  "description": "Una interfaz web interactiva estilo consola con juegos integrados potenciados por Gemini AI.",
+  "requestFramePermissions": []
+}
